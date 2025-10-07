@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Simba",
+    "films": ["The Lion King"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/f/f8/Simba_TLK.png"
+  },
+  {
+    "name": "Mufasa",
+    "films": ["The Lion King"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/7f/Mufasa.png"
+  },
+  {
+    "name": "Nala",
+    "films": ["The Lion King"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/89/Nala.png"
+  },
+  {
+    "name": "Scar",
+    "films": ["The Lion King"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/34/Scar_TLK.png"
+  },
+  {
+    "name": "Timon",
+    "films": ["The Lion King"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/70/Timon_TLK.png"
+  },
+  {
+    "name": "Pumbaa",
+    "films": ["The Lion King"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/1/10/Pumbaa_TLK.png"
+  },
+  {
+    "name": "Elsa",
+    "films": ["Frozen"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/58/Elsa-Frozen.png"
+  },
+  {
+    "name": "Anna",
+    "films": ["Frozen"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2b/Anna_Frozen.png"
+  },
+  {
+    "name": "Olaf",
+    "films": ["Frozen"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/a/a6/Olaf_Frozen.png"
+  },
+  {
+    "name": "Kristoff",
+    "films": ["Frozen"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/02/Kristoff_Frozen.png"
+  },
+  {
+    "name": "Sven",
+    "films": ["Frozen"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/c2/Sven_Frozen.png"
+  },
+  {
+    "name": "Ariel",
+    "films": ["The Little Mermaid"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/0d/Ariel_Profile.png"
+  },
+  {
+    "name": "Ursula",
+    "films": ["The Little Mermaid"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/f/fc/Ursula_Profile.png"
+  },
+  {
+    "name": "Flounder",
+    "films": ["The Little Mermaid"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/71/Flounder_Profile.png"
+  },
+  {
+    "name": "Prince Eric",
+    "films": ["The Little Mermaid"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/25/Prince_Eric_Profile.png"
+  },
+  {
+    "name": "Aladdin",
+    "films": ["Aladdin"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3e/Aladdin_Profile.png"
+  },
+  {
+    "name": "Jasmine",
+    "films": ["Aladdin"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/9/9b/Jasmine_Profile.png"
+  },
+  {
+    "name": "Genie",
+    "films": ["Aladdin"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/d1/Genie_Profile.png"
+  },
+  {
+    "name": "Jafar",
+    "films": ["Aladdin"],
+    "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/c6/Jafar_Profile.png"
+  }
+]
