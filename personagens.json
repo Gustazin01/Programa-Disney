@@ -1,97 +1,167 @@
 [
   {
-    "name": "Simba",
-    "films": ["The Lion King"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/f/f8/Simba_TLK.png"
+    "filmIds": ["snow-white", "branca-de-neve", "branca-de-neve-e-os-sete-anoes"],
+    "titles": ["Branca de Neve e os Sete Anões", "Branca de Neve"],
+    "characters": ["Branca de Neve", "Rainha Má", "Espelho Mágico", "Dunga", "Zangado", "Feliz", "Atchim", "Soneca", "Mestre"]
   },
   {
-    "name": "Mufasa",
-    "films": ["The Lion King"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/7f/Mufasa.png"
+    "filmIds": ["frozen", "frozen-uma-aventura-congelante"],
+    "titles": ["Frozen", "Frozen: Uma Aventura Congelante"],
+    "characters": ["Elsa", "Anna", "Olaf", "Kristoff", "Sven", "Hans", "Duke de Weselton"]
   },
   {
-    "name": "Nala",
-    "films": ["The Lion King"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/89/Nala.png"
+    "filmIds": ["o-rei-leao", "the-lion-king"],
+    "titles": ["O Rei Leão"],
+    "characters": ["Simba", "Nala", "Mufasa", "Scar", "Timon", "Pumba", "Rafiki", "Zazu"]
   },
   {
-    "name": "Scar",
-    "films": ["The Lion King"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/34/Scar_TLK.png"
+    "filmIds": ["a-pequena-sereia", "the-little-mermaid"],
+    "titles": ["A Pequena Sereia"],
+    "characters": ["Ariel", "Sebastião", "Linguado", "Úrsula", "Príncipe Eric", "Rei Tritão", "Scuttle"]
   },
   {
-    "name": "Timon",
-    "films": ["The Lion King"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/70/Timon_TLK.png"
+    "filmIds": ["aladdin"],
+    "titles": ["Aladdin"],
+    "characters": ["Aladdin", "Jasmim", "Gênio", "Jafar", "Abu", "Carpet", "Sultão"]
   },
   {
-    "name": "Pumbaa",
-    "films": ["The Lion King"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/1/10/Pumbaa_TLK.png"
+    "filmIds": ["toy-story"],
+    "titles": ["Toy Story"],
+    "characters": ["Woody", "Buzz Lightyear", "Sr. Cabeça de Batata", "Rex", "Jessie", "Slink", "Bo Peep"]
   },
   {
-    "name": "Elsa",
-    "films": ["Frozen"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/58/Elsa-Frozen.png"
+    "filmIds": ["moana", "moana-um-mar-de-aventuras"],
+    "titles": ["Moana", "Moana: Um Mar de Aventuras"],
+    "characters": ["Moana", "Maui", "Pua", "Hei Hei", "Tala", "Gramma Tala"]
   },
   {
-    "name": "Anna",
-    "films": ["Frozen"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/2b/Anna_Frozen.png"
+    "filmIds": ["cinderela"],
+    "titles": ["Cinderela"],
+    "characters": ["Cinderela", "Príncipe Encantado", "Fada Madrinha", "Drizella", "Anastácia", "Madrastra"]
   },
   {
-    "name": "Olaf",
-    "films": ["Frozen"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/a/a6/Olaf_Frozen.png"
+    "filmIds": ["mulan"],
+    "titles": ["Mulan"],
+    "characters": ["Mulan", "Mushu", "Li Shang", "Shan Yu", "Cri-Kee", "Yao", "Ling", "Chien-Po"]
   },
   {
-    "name": "Kristoff",
-    "films": ["Frozen"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/02/Kristoff_Frozen.png"
+    "filmIds": ["pocahontas"],
+    "titles": ["Pocahontas"],
+    "characters": ["Pocahontas", "John Smith", "Meeko", "Grandmother Willow", "Governor Ratcliffe", "Thomas"]
   },
   {
-    "name": "Sven",
-    "films": ["Frozen"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/c2/Sven_Frozen.png"
+    "filmIds": ["bela-e-a-fera", "a-bela-e-a-fera"],
+    "titles": ["A Bela e a Fera", "Bela e a Fera"],
+    "characters": ["Bela", "Fera", "Gaston", "Lumière", "Cogsworth", "Mrs. Potts", "Chip"]
   },
   {
-    "name": "Ariel",
-    "films": ["The Little Mermaid"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/0d/Ariel_Profile.png"
+    "filmIds": ["zootopia"],
+    "titles": ["Zootopia"],
+    "characters": ["Judy Hopps", "Nick Wilde", "Chief Bogo", "Bellwether", "Gazelle", "Flash"]
   },
   {
-    "name": "Ursula",
-    "films": ["The Little Mermaid"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/f/fc/Ursula_Profile.png"
+    "filmIds": ["enrolados", "rapunzel"],
+    "titles": ["Enrolados", "Rapunzel"],
+    "characters": ["Rapunzel", "Flynn Rider", "Mãe Gothel", "Maximus", "Pascal"]
   },
   {
-    "name": "Flounder",
-    "films": ["The Little Mermaid"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/7/71/Flounder_Profile.png"
+    "filmIds": ["viuva-negra"],
+    "titles": ["Viúva Negra"],
+    "characters": ["Natasha Romanoff", "Yelena Belova", "Alexei Shostakov", "Melina Vostokoff", "Dreykov"]
   },
   {
-    "name": "Prince Eric",
-    "films": ["The Little Mermaid"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/2/25/Prince_Eric_Profile.png"
+    "filmIds": ["mickey"],
+    "titles": ["Mickey Mouse"],
+    "characters": ["Mickey", "Minnie", "Donald", "Pateta", "Pluto"]
   },
   {
-    "name": "Aladdin",
-    "films": ["Aladdin"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3e/Aladdin_Profile.png"
+    "filmIds": ["carros", "carros-1"],
+    "titles": ["Carros"],
+    "characters": ["Relâmpago McQueen", "Mate", "Doc Hudson", "Sally", "Ramone"]
   },
   {
-    "name": "Jasmine",
-    "films": ["Aladdin"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/9/9b/Jasmine_Profile.png"
+    "filmIds": ["universidade-monstros", "monsters-university"],
+    "titles": ["Universidade Monstros", "Monsters University"],
+    "characters": ["Mike Wazowski", "James P. Sullivan", "Randall", "Celia", "Dean Hardscrabble"]
   },
   {
-    "name": "Genie",
-    "films": ["Aladdin"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/d1/Genie_Profile.png"
+    "filmIds": ["divertida-mente", "inside-out"],
+    "titles": ["Divertida Mente", "Inside Out"],
+    "characters": ["Alegria", "Tristeza", "Medo", "Raiva", "Nojinho", "Riley"]
   },
   {
-    "name": "Jafar",
-    "films": ["Aladdin"],
-    "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/c6/Jafar_Profile.png"
+    "filmIds": ["valente", "brave"],
+    "titles": ["Valente", "Brave"],
+    "characters": ["Merida", "Rei Fergus", "Rainha Elinor", "Rebelle", "Mordo"]
+  },
+  {
+    "filmIds": ["up-altas-aventuras", "up"],
+    "titles": ["Up: Altas Aventuras", "Up"],
+    "characters": ["Carl Fredricksen", "Russell", "Dug", "Kevin", "Charles Muntz"]
+  },
+  {
+    "filmIds": ["big-hero-6", "grandes-herois"],
+    "titles": ["Big Hero 6", "Grandes Heróis"],
+    "characters": ["Hiro Hamada", "Baymax", "Go Go Tomago", "Wasabi", "Honey Lemon", "Fred"]
+  },
+  {
+    "filmIds": ["ralph", "detona-ralph"],
+    "titles": ["Detona Ralph", "Ralph"],
+    "characters": ["Ralph", "Vanellope", "Fix-It Felix", "Sargento Calhoun", "King Candy"]
+  },
+  {
+    "filmIds": ["ralph-2", "wifi-ralph"],
+    "titles": ["Wi-Fi Ralph", "Ralph Quebra a Internet"],
+    "characters": ["Ralph", "Vanellope", "Yesss", "Shank", "Felix"]
+  },
+  {
+    "filmIds": ["mickey-pato-donald", "mickey-donald-pato"],
+    "titles": ["Mickey, Pato Donald e Pateta"],
+    "characters": ["Mickey", "Donald", "Pateta", "Minnie", "Pluto"]
+  },
+  {
+    "filmIds": ["coco"],
+    "titles": ["Coco"],
+    "characters": ["Miguel", "Héctor", "Imelda", "Mama Coco", "Dante", "Ernesto de la Cruz"]
+  },
+  {
+    "filmIds": ["inside-out-alegria", "divertida-mente-alegria"],
+    "titles": ["Divertida Mente 2"],
+    "characters": ["Alegria", "Tristeza", "Medo", "Raiva", "Nojinho"]
+  },
+  {
+    "filmIds": ["luca"],
+    "titles": ["Luca"],
+    "characters": ["Luca", "Alberto", "Giulia", "Massimo", "Daniela"]
+  },
+  {
+    "filmIds": ["onward", "alvorada"],
+    "titles": ["Dois Irmãos: Uma Jornada Fantástica", "Onward"],
+    "characters": ["Ian", "Barley", "Laurel", "Corey", "Wilden"]
+  },
+  {
+    "filmIds": ["sou-perto", "inside-out-2"],
+    "titles": ["Sou Perto", "Inside Out 2"],
+    "characters": ["Alegria", "Tristeza", "Medo", "Raiva", "Nojinho"]
+  },
+  {
+    "filmIds": ["encanto"],
+    "titles": ["Encanto"],
+    "characters": ["Mirabel", "Isabela", "Luisa", "Abuela Alma", "Bruno"]
+  },
+  {
+    "filmIds": ["a-tiana", "princesa-tiana"],
+    "titles": ["A Princesa e o Sapo", "Princesa Tiana"],
+    "characters": ["Tiana", "Naveen", "Dr. Facilier", "Louis", "Ray"]
+  },
+  {
+    "filmIds": ["ratatouille"],
+    "titles": ["Ratatouille"],
+    "characters": ["Remy", "Linguini", "Colette", "Skinner", "Emile"]
+  },
+  {
+    "filmIds": ["walle"],
+    "titles": ["WALL-E"],
+    "characters": ["WALL-E", "EVE", "M-O", "Auto", "Humano"]
   }
 ]
