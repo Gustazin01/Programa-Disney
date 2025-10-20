@@ -1,72 +1,88 @@
 body {
-  background: linear-gradient(135deg, #2b6cb0, #805ad5);
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(180deg, #0078ff 0%, #00c6ff 100%);
   color: white;
-  font-family: 'Poppins', sans-serif;
+  margin: 0;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 40px 10px;
 }
 
 .container {
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.3);
-  padding: 40px;
-  border-radius: 20px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
   width: 90%;
-  max-width: 600px;
+  max-width: 1000px;
 }
 
-h1 {
-  margin-bottom: 20px;
-  font-size: 2rem;
+.search-bar {
+  margin-top: 20px;
 }
 
 input {
-  width: 100%;
-  padding: 12px;
+  padding: 10px;
+  border-radius: 8px;
   border: none;
-  border-radius: 8px;
+  width: 60%;
   font-size: 1rem;
-  margin-bottom: 10px;
-  text-align: center;
 }
 
-input:focus {
-  outline: none;
-  box-shadow: 0 0 10px #fff;
-}
-
-#suggestions {
-  max-height: 4.5em; /* 3 linhas */
-  overflow-y: auto;
-  background: rgba(255, 255, 255, 0.1);
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #ffdd00;
+  color: #000;
   border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+button:hover {
+  background-color: #ffe65c;
+}
+
+#loading {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.filme-section {
+  margin-top: 40px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 16px;
+}
+
+.filme-section h2 {
+  color: #ffdd00;
   margin-bottom: 20px;
 }
 
-.suggestion {
-  padding: 8px;
-  cursor: pointer;
-  transition: background 0.2s;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 15px;
+  justify-items: center;
 }
 
-.suggestion:hover {
-  background: rgba(255, 255, 255, 0.3);
-}
-
-#resultContainer {
-  background-color: rgba(255, 255, 255, 0.1);
-  padding: 20px;
-  border-radius: 10px;
-  text-align: left;
-}
-
-.character {
-  background: rgba(255, 255, 255, 0.2);
-  margin: 8px 0;
+.card {
+  background: white;
+  color: #333;
+  border-radius: 12px;
   padding: 10px;
+  width: 150px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
   border-radius: 8px;
 }

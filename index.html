@@ -8,14 +8,18 @@
 </head>
 <body>
   <div class="container">
-    <h1>✨ Personagens da Disney ✨</h1>
-    <input 
-      type="text" 
-      id="searchInput" 
-      placeholder="Ex: A Bela e a Fera, Aladdin, Frozen..."
-    >
-    <div id="suggestions"></div>
-    <div id="resultContainer"></div>
+    <h1>🎬 Personagens dos Filmes da Disney</h1>
+    <p>Digite o nome de um filme (ex: <strong>O Rei Leão</strong>, <strong>Frozen</strong>, <strong>Aladdin</strong>)</p>
+
+    <div class="search-bar">
+      <input type="text" id="movieInput" placeholder="Digite o nome do filme...">
+      <button id="searchBtn">Buscar</button>
+      <button id="clearBtn" type="button">Limpar resultados</button>
+    </div>
+
+    <div id="loading"></div>
+
+    <div id="results"></div>
   </div>
 
   <script src="script.js"></script>
